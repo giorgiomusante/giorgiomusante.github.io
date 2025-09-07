@@ -1,3 +1,7 @@
+layout: page
+title: "listOfPapers"
+permalink: /publications
+
 ## My papers
 
 - ''Obstructions to the existence of Moeller maps''
