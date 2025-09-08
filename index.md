@@ -7,4 +7,4 @@
 # Others
 
 - "Green hyperbolic complexes on Lorentzian manifolds and quantizations of gauge field theories"
-- "On the complex of observables for linearized gravity"
+- "On the complex of observables for linearized gravity" [try](/pdfs/linGravity.pdf)
